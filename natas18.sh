@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# level located on natas18.natas.labs.overthewire.org
 
 passwordNatas18=""
 defaultPasswordNatas18="6OG1PbKdVjyBlpxgD4DDbRG6ZLlCGgCJ"
